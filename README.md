@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitaTReNt
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning CV/Reinforcement Learning
+- 👀 I’m interested in AI For Science
+- 🌱 I’m currently learning CV/Medical Graph/LLMs
 - 💞️ I’m looking to collaborate on Deep learning-based photo editing
 - 📫 Contact me :
 -               634859247@qq.com                (private)

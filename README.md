@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitaTReNt
 - 👀 I’m interested in AI For Science
-- 🌱 I’m currently learning CV/Medical Graph/LLMs
-- 💞️ I’m looking to collaborate on Deep learning-based photo editing
+- 🌱 I’m currently learning CV / Medical Graph / LLMs
+- 💞️ I’m looking to collaborate on LLMs+Graph / CV in Bio/Medic
 - 📫 Contact me :
 -               634859247@qq.com                (private)
 -               sierras.shrug0r@icloud.com      (work)

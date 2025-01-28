@@ -5,8 +5,8 @@
 - 👀 I’m interested in AI For Science
 - 💞️ I’m looking to collaborate on AI For Science / Causality / XAI
 - 📫 Contact me :
--               yuntian_wu66@163.com                (private)
--               trent.wu16@gmail.com      (work)
+-               yuntian_wu66@163.com            (private)
+-               trent.wu16@gmail.com            (work)
 -               yuntian_wu@hust.edu.cn          (edu)
 
 <!---

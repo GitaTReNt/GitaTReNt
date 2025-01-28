@@ -3,7 +3,7 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=GitaTReNt.GitaTReNt&color=00cf00)
 - 👋 Hi, I’m @GitaTReNt
 - 👀 I’m interested in AI For Science
-- 💞️ I’m looking to collaborate on Graph LLMs / AI For Science / Causality / Generalizable AI
+- 💞️ I’m looking to collaborate on AI For Science / Causality / XAI
 - 📫 Contact me :
 -               yuntian.wu@qq.com                (private)
 -               trent.wu16@gmail.com      (work)
